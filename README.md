@@ -11,4 +11,5 @@ Number|Name of Script| Brief Overview of its Purpose
    3  |AddLineNumbers.py | Reads from a file and creates a copy of it in a txt file with line numbers added.
    4  |Different.py      | Compares two texts files and determines if they match, if not, it will display the first non-matching lines that it finds.
    5  |CeaserCypher.py   | Cracks a Ceaser Cipher when you do not know what the rotation key value is and displays numerous potential outputs.
-   5  |Game.py           | TBA
+   6  |Game.py           | TBA
+   7  |MeanMedianMode.py | Displays the Mean, Median, and Mode of a list of numbers.
